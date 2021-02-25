@@ -2,10 +2,10 @@ from TwitterAPI import TwitterAPI
 import xlwt
 from xlwt import Workbook
 
-consumer_key = 'WwINmsz1NuBFsDPjBcjLAoesT'
-consumer_secret = 'SJ6ZftwI2i3mcgG9ViPnxdTsLtxjjHJG6A7DvXvWDwShu0dSkX'
-access_token_key = '1041324662-nuZDn6Cf4isjZDRCrWcPMf6v26NpDtaMfn3NyMo'
-access_token_secret = 'AQu0C6axHKpWwIqFY7cOdrwFRtGD54hWxGrTZGTQ5Xpum'
+consumer_key = ''
+consumer_secret = ''
+access_token_key = ''
+access_token_secret = ''
 
 api = TwitterAPI(consumer_key, consumer_secret, access_token_key, access_token_secret)
 
